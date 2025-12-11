@@ -65,24 +65,19 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fhermas22&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhermas22&theme=tokyonight" height="150px"/>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### 🌍 Connect with Me
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhermas22&theme=tokyonight" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=fhermas22&theme=tokyonight&show_icons=true" height="150px"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fhermas22&layout=compact&theme=tokyonight" height="150px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhermas22&theme=tokyonight" height="150px"/>
+  <a href="https://hermas-francisco.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:franciscohermas@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/fhermas22"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hermas-francisco"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/f.hermas22"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
