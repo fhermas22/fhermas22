@@ -45,9 +45,9 @@
 | 🎬 **[Netflix Clone](https://github.com/fhermas22/netflix-clone)** | Streaming UI clone with smooth animations. | Flutter |
 | 🛍️ **[MiniStore](https://github.com/fhermas22/ministore)** | Product showcase app with REST API integration. | Flutter + REST API |
 | 📚 **[Library-API](https://github.com/fhermas22/library-api)** | REST API for book management. | Laravel + MySQL |
-| 📝 **[CandForm](https://github.com/fhermas22/candform)** | Candidate form submission platform. | Laravel + TailwindCSS |
-| 🤖 **[AutoSocial](https://github.com/fhermas22/autosocial)** | Social media generator with AI automation. | Laravel + TailwindCSS |
-| 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)** | Restaurant table reservation system. | Laravel + TailwindCSS |
+| 📝 **[CandForm](https://github.com/fhermas22/candform)** | Candidate form submission platform. | Laravel + TailwindCSS + MySQL |
+| 🤖 **[AutoSocial](https://github.com/fhermas22/autosocial)** | Social media generator with AI automation. | Laravel + TailwindCSS + MySQL |
+| 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)** | Restaurant table reservation system. | Laravel + TailwindCSS + MySQL |
 | 📰 **[Hernotix Blog](https://github.com/fhermas22/hernotix-blog)** | Blog system with admin dashboard. | Laravel + MySQL |
 | 🌆 **[Fexels](https://github.com/fhermas22/fexels)** | Photo gallery web experience. | HTML + CSS + JavaScript |
 
