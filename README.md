@@ -48,9 +48,9 @@
 | 📝 **[CandForm](https://github.com/fhermas22/candform)** | Candidate form submission platform. | Laravel + TailwindCSS + MySQL |
 | 🤖 **[AutoSocial](https://github.com/fhermas22/autosocial)** | Social media generator with AI automation. | Laravel + TailwindCSS + MySQL |
 | 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)** | Restaurant table reservation system. | Laravel + TailwindCSS + MySQL |
-| 📰 **[Hernotix Blog](https://github.com/fhermas22/hernotix-blog)** | Blog system with admin dashboard. | Laravel + MySQL |
 | 📖 **[EduTrack](https://github.com/fhermas22/edutrack)** | SPA frontend interface for a learner tracking system. | Laravel + Blade + TailwindCSS + JavaScript |
 | 🎓 **[LearnyClass](https://github.com/fhermas22/learny-class)** | Responsive frontend interface for an online learning platform. | Laravel + Blade + TailwindCSS + JavaScript |
+| 📰 **[Hernotix Blog](https://github.com/fhermas22/hernotix-blog)** | Blog system with admin dashboard. | Laravel + Bootstrap + MySQL |
 | 🌆 **[Fexels](https://github.com/fhermas22/fexels)** | Photo gallery web experience. | HTML + CSS + JavaScript |
 
 ---
