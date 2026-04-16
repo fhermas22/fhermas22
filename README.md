@@ -1,37 +1,41 @@
 <h1 align="center">👋🏽 Hi there, I'm <span style="color:#00BFA6;">Hermas Francisco</span></h1>
 
 <p align="center">
-  💻 <b>Mobile Developer (Flutter)</b> & <b>Web Developer (Laravel / TailwindCSS)</b> <br>
-  Passionate about building clean, modern and scalable digital experiences.<br><br>
+  📱 <b>Mobile Developer (Flutter)</b> & 💻 <b>Web Developer</b> <br>
+  I build modern, responsive and user-focused applications with clean architecture.<br><br>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Club-Captain-FFB300?style=for-the-badge&logo=amazonaws&logoColor=000"/>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 📍 Based in Abomey-Calavi, Benin  
-- 👨🏽‍💻 Completing my **Professional Training in Computer Programming** at *IMeN*  
-- 📱 Specialized in **Mobile Development (Flutter)**  
-- 🌐 Experienced in **Web Platforms (Laravel, TailwindCSS)**  
-- 🎨 Passionate about UI/UX and digital product design  
-- ☁️ AWS Cloud Club Captain at IMeN  
-- ⚙️ Preferred tools: **VS Code**, **Android Studio**, **Debian Linux**
+
+* 📍 Based in Abomey-Calavi, Benin
+* 👨🏽‍💻 Completing my **Professional Training in Computer Programming** at *IMeN*
+* 📱 Focused on **Mobile Development with Flutter**
+* 🌐 Building responsive **Frontend Web Interfaces**
+* 🎨 Strong interest in UI/UX and product design
+* ☁️ AWS Cloud Club Captain at IMeN
+* ⚙️ Preferred tools: **VS Code**, **Android Studio**, **Debian Linux**
 
 ---
 
 ### 🧩 Tech Stack
 
 #### 📱 Mobile
+
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=6" />
 </p>
 
 #### 🌐 Web
+
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,html,css,js,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,html,css,js,mysql&perline=6" />
 </p>
 
 #### ⚙️ Tools & Environment
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=6" />
 </p>
@@ -40,18 +44,19 @@
 
 ### 📱 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|--------|
-| 🎬 **[Netflix Clone](https://github.com/fhermas22/netflix-clone)** | Streaming UI clone with smooth animations. | Flutter |
-| 🛍️ **[MiniStore](https://github.com/fhermas22/ministore)** | Product showcase app with REST API integration. | Flutter + REST API |
-| 📚 **[Library-API](https://github.com/fhermas22/library-api)** | REST API for book management. | Laravel + MySQL |
-| 📝 **[CandForm](https://github.com/fhermas22/candform)** | Candidate form submission platform. | Laravel + TailwindCSS + MySQL |
-| 🤖 **[AutoSocial](https://github.com/fhermas22/autosocial)** | Social media generator with AI automation. | Laravel + TailwindCSS + MySQL |
-| 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)** | Restaurant table reservation system. | Laravel + TailwindCSS + MySQL |
-| 📖 **[EduTrack](https://github.com/fhermas22/edutrack)** | SPA frontend interface for a learner tracking system. | Laravel + Blade + TailwindCSS + JavaScript |
-| 🎓 **[LearnyClass](https://github.com/fhermas22/learny-class)** | Responsive frontend interface for an online learning platform. | Laravel + Blade + TailwindCSS + JavaScript |
-| 📰 **[Hernotix Blog](https://github.com/fhermas22/hernotix-blog)** | Blog system with admin dashboard. | Laravel + Bootstrap + MySQL |
-| 🌆 **[Fexels](https://github.com/fhermas22/fexels)** | Photo gallery web experience. | HTML + CSS + JavaScript |
+| Project                                                                    | Description                                                    | Stack                                      |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ |
+| 🎬 **[Netflix Clone](https://github.com/fhermas22/netflix-clone)**         | Streaming UI clone with smooth animations.                     | Flutter                                    |
+| 🛍️ **[MiniStore](https://github.com/fhermas22/ministore)**                | Product showcase app with REST API integration.                | Flutter + REST API                         |
+| 📚 **[Library-API](https://github.com/fhermas22/library-api)**             | REST API for book management.                                  | Laravel + MySQL                            |
+| 🎓 **[LearnyClass](https://github.com/fhermas22/learny-class)**            | Responsive frontend interface for an online learning platform. | Laravel + Blade + TailwindCSS + JavaScript |
+| 📖 **[EduTrack](https://github.com/fhermas22/edutrack)**                   | SPA frontend interface for a learner tracking system.          | Laravel + Blade + TailwindCSS + JavaScript |
+| 🧾 **[HERNOTIX Tech Landing](https://github.com/fhermas22/hernotix-tech)** | Professional landing page for a web & mobile studio.           | React + TailwindCSS                        |
+| 📝 **[CandForm](https://github.com/fhermas22/candform)**                   | Candidate form submission platform.                            | Laravel + TailwindCSS + MySQL              |
+| 🤖 **[AutoSocial](https://github.com/fhermas22/autosocial)**               | Social media generator with AI automation.                     | Laravel + TailwindCSS + MySQL              |
+| 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)**            | Restaurant table reservation system.                           | Laravel + TailwindCSS + MySQL              |
+| 📰 **[Hernotix Blog](https://github.com/fhermas22/hernotix-blog)**         | Blog system with admin dashboard.                              | Laravel + Bootstrap + MySQL                |
+| 🌆 **[Fexels](https://github.com/fhermas22/fexels)**                       | Photo gallery web experience.                                  | HTML + CSS + JavaScript                    |
 
 ---
 
@@ -75,7 +80,7 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://hermas-francisco.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://hermas.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:franciscohermas@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/fhermas22"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hermas-francisco"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -85,7 +90,8 @@
 ---
 
 ### 💬 Quote I Live By
-> _"Good code is like good design: simple, elegant, and built to last."_
+
+> *"Good code is like good design: simple, elegant, and built to last."*
 
 ---
 
