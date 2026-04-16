@@ -1,7 +1,7 @@
 <h1 align="center">👋🏽 Hi there, I'm <span style="color:#00BFA6;">Hermas Francisco</span></h1>
 
 <p align="center">
-  📱 <b>Mobile Developer (Flutter)</b> & 💻 <b>Web Developer</b> <br>
+  📱 <b>Mobile Developer (Flutter)</b> & 💻 <b>Web Developer (Laravel / React / Tailwind CSS)</b> <br>
   I build modern, responsive and user-focused applications with clean architecture.<br><br>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Club-Captain-FFB300?style=for-the-badge&logo=amazonaws&logoColor=000"/>
 </p>
@@ -14,8 +14,9 @@
 * 👨🏽‍💻 Completing my **Professional Training in Computer Programming** at *IMeN*
 * 📱 Focused on **Mobile Development with Flutter**
 * 🌐 Building responsive **Frontend Web Interfaces**
+* ⚙️ Backend experience with Laravel & REST API development
 * 🎨 Strong interest in UI/UX and product design
-* ☁️ AWS Cloud Club Captain at IMeN
+* ☁️ [AWS Cloud Club Captain](https://www.credly.com/badges/63b84768-e35a-47a6-ac8d-d6028ebf1c28/public_url) at [IMeN](https://www.meetup.com/aws-cloud-club-at-imen)
 * ⚙️ Preferred tools: **VS Code**, **Android Studio**, **Debian Linux**
 
 ---
@@ -47,14 +48,15 @@
 | Project                                                                    | Description                                                    | Stack                                      |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ |
 | 🎬 **[Netflix Clone](https://github.com/fhermas22/netflix-clone)**         | Streaming UI clone with smooth animations.                     | Flutter                                    |
-| 🛍️ **[MiniStore](https://github.com/fhermas22/ministore)**                | Product showcase app with REST API integration.                | Flutter + REST API                         |
+| 🛍️ **[MiniStore](https://github.com/fhermas22/ministore)**                 | Product showcase app with REST API integration.                | Flutter + REST API                         |
+| 🏢 **[IMeN Clone](https://github.com/fhermas22/imen-clone)**               | Institutional web platform currently under development.        | React + TailwindCSS                        |
 | 📚 **[Library-API](https://github.com/fhermas22/library-api)**             | REST API for book management.                                  | Laravel + MySQL                            |
 | 🎓 **[LearnyClass](https://github.com/fhermas22/learny-class)**            | Responsive frontend interface for an online learning platform. | Laravel + Blade + TailwindCSS + JavaScript |
 | 📖 **[EduTrack](https://github.com/fhermas22/edutrack)**                   | SPA frontend interface for a learner tracking system.          | Laravel + Blade + TailwindCSS + JavaScript |
 | 🧾 **[HERNOTIX Tech Landing](https://github.com/fhermas22/hernotix-tech)** | Professional landing page for a web & mobile studio.           | React + TailwindCSS                        |
 | 📝 **[CandForm](https://github.com/fhermas22/candform)**                   | Candidate form submission platform.                            | Laravel + TailwindCSS + MySQL              |
 | 🤖 **[AutoSocial](https://github.com/fhermas22/autosocial)**               | Social media generator with AI automation.                     | Laravel + TailwindCSS + MySQL              |
-| 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)**            | Restaurant table reservation system.                           | Laravel + TailwindCSS + MySQL              |
+| 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)**             | Restaurant table reservation system.                           | Laravel + TailwindCSS + MySQL              |
 | 📰 **[Hernotix Blog](https://github.com/fhermas22/hernotix-blog)**         | Blog system with admin dashboard.                              | Laravel + Bootstrap + MySQL                |
 | 🌆 **[Fexels](https://github.com/fhermas22/fexels)**                       | Photo gallery web experience.                                  | HTML + CSS + JavaScript                    |
 
