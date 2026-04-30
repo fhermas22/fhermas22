@@ -16,7 +16,7 @@
 * 🌐 Building responsive **Frontend Web Interfaces**
 * ⚙️ Backend experience with Laravel & REST API development
 * 🎨 Strong interest in UI/UX and product design
-* ☁️ [AWS Cloud Club Captain](https://www.credly.com/badges/63b84768-e35a-47a6-ac8d-d6028ebf1c28/public_url) at [IMeN](https://www.meetup.com/aws-cloud-club-at-imen)
+* ☁️ [AWS Student Builder Group Leader](https://www.credly.com/badges/63b84768-e35a-47a6-ac8d-d6028ebf1c28/public_url) at [IMeN](https://www.meetup.com/aws-sbg-at-imen/)
 * ⚙️ Preferred tools: **VS Code**, **Android Studio**, **Debian Linux**
 
 ---
