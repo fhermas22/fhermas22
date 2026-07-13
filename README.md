@@ -1,8 +1,8 @@
 <h1 align="center">👋🏽 Hi there, I'm <span style="color:#00BFA6;">Hermas Francisco</span></h1>
 
 <p align="center">
-  📱 <b>Mobile Developer (Flutter)</b> & 💻 <b>Web Developer (Laravel / React / Tailwind CSS)</b> <br>
-  I build modern, responsive and user-focused applications with clean architecture.<br><br>
+  📱 <b>Mobile Developer (Flutter)</b> | 💻 <b>Web Full-Stack Developer (Laravel / React / Tailwind CSS)</b> | ☁️ <b>DevOps Engineer</b> <br>
+  I build modern, user-focused applications with clean architecture and seamless cloud deployments.<br><br>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Club-Captain-FFB300?style=for-the-badge&logo=amazonaws&logoColor=000"/>
 </p>
 
@@ -11,11 +11,12 @@
 ### 🚀 About Me
 
 * 📍 Based in Abomey-Calavi, Benin
-* 👨🏽‍💻 Completing my **Professional Training in Computer Programming** at *IMeN*
+* 👨🏽‍💻 Professional Training in IT Programming at *IMeN*
 * 📱 Focused on **Mobile Development with Flutter**
-* 🌐 Building responsive **Frontend Web Interfaces**
-* ⚙️ Backend experience with Laravel & REST API development
 * 🎨 Strong interest in UI/UX and product design
+* 🌐 Building robust **Full-Stack Web Experiences** (Laravel & React)
+* ⚙️ Strong Backend expertise and REST APIs
+* 🐳 Expanding workflows with **DevOps & Cloud Infrastructure** (Docker, CI/CD, AWS)
 * ☁️ [AWS Student Builder Group Leader](https://www.credly.com/badges/63b84768-e35a-47a6-ac8d-d6028ebf1c28/public_url) at [IMeN](https://www.meetup.com/aws-sbg-at-imen/)
 * ⚙️ Preferred tools: **VS Code**, **Android Studio**, **Debian Linux**
 
@@ -29,10 +30,16 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=6" />
 </p>
 
-#### 🌐 Web
+#### 🌐 Web & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,html,css,js,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,tailwind,js,html,css&perline=7" />
+</p>
+
+#### ☁️ DevOps, Cloud & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,mysql,mongodb&perline=6" />
 </p>
 
 #### ⚙️ Tools & Environment
@@ -45,19 +52,23 @@
 
 ### 📱 Featured Projects
 
-| Project                                                                    | Description                                                    | Stack                                      |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ |
-| 🎬 **[Netflix Clone](https://github.com/fhermas22/netflix-clone)**         | Streaming UI clone with smooth animations.                     | Flutter                                    |
-| 🛍️ **[MiniStore](https://github.com/fhermas22/ministore)**                 | Product showcase app with REST API integration.                | Flutter + REST API                         |
-| 🏢 **[IMeN Clone](https://github.com/fhermas22/imen-clone)**               | Institutional web platform currently under development.        | React + TailwindCSS                        |
-| 📚 **[Library-API](https://github.com/fhermas22/library-api)**             | REST API for book management.                                  | Laravel + MySQL                            |
-| 🎓 **[LearnyClass](https://github.com/fhermas22/learny-class)**            | Responsive frontend interface for an online learning platform. | Laravel + Blade + TailwindCSS + JavaScript |
-| 📖 **[EduTrack](https://github.com/fhermas22/edutrack)**                   | SPA frontend interface for a learner tracking system.          | Laravel + Blade + TailwindCSS + JavaScript |
-| 🧾 **[HERNOTIX Tech Landing](https://github.com/fhermas22/hernotix-tech)** | Professional landing page for a web & mobile studio.           | React + TailwindCSS                        |
-| 📝 **[CandForm](https://github.com/fhermas22/candform)**                   | Candidate form submission platform.                            | Laravel + TailwindCSS + MySQL              |
-| 🤖 **[AutoSocial](https://github.com/fhermas22/autosocial)**               | Social media generator with AI automation.                     | Laravel + TailwindCSS + MySQL              |
-| 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)**             | Restaurant table reservation system.                           | Laravel + TailwindCSS + MySQL              |
-| 📰 **[Hernotix Blog](https://github.com/fhermas22/hernotix-blog)**         | Blog system with admin dashboard.                              | Laravel + Bootstrap + MySQL                |
+| Project                                                                    | Description                                                                                    | Stack                                       |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 📱 **[MiniStore](https://github.com/fhermas22/ministore)**                 | Product showcase mobile application with real-time REST API catalog integration.               | Flutter + REST API                          |
+| 🎬 **[Netflix Clone](https://github.com/fhermas22/netflix-clone)**         | Streaming UI mobile clone featuring fluid animations and immersive user experience.            | Flutter                                     |
+| 🛡️ **[Candly](https://github.com/fhermas22/candly)**                       | Full-stack recruitment platform with Dockerized stack and automated GitHub Actions CI/CD pipeline. | Laravel 13 + React 19 + Docker + CI/CD      |
+| 🤖 **[ComChill](https://github.com/fhermas22/comchill)**                   | Student instant messaging API with an AI assistant, mobile-first auth, and Swagger docs.       | Laravel 13 + REST API + Swagger             |
+| 📦 **[Webash](https://github.com/fhermas22/webash)**                       | Interactive Bash CLI tool to scaffold static web projects in seconds, published on npm registry. | Bash + Node.js + npm / npx                  |
+| 🏢 **[IMeN Clone](https://github.com/fhermas22/imen-clone)**               | Faithful, pixel-perfect and 100% responsive clone of the IMeN Institute web platform.           | React + TailwindCSS                         |
+| 📄 **[HERMAS-CV](https://github.com/fhermas22/hermas-cv)**               | Ultra-clean single-page resume built with pure semantic HTML/CSS and zero dependencies.         | HTML + CSS (Pure)                           |
+| 💬 **[Writty](https://github.com/fhermas22/writty)**                       | High-performance real-time chat application using instant web sockets communication.            | Laravel + React + MongoDB + Reverb          |
+| 🎓 **[LearnyClass](https://github.com/fhermas22/learny-class)**            | Responsive e-learning interface designed for smooth client-side tracking and navigation.       | Laravel 12 + Blade + JS + Tailwind          |
+| 🤖 **[AutoSocial](https://github.com/fhermas22/autosocial)**               | Social media generator proof-of-concept exploring autonomous AI agents integrations.           | Laravel + TailwindCSS + MySQL + AI          |
+| 📝 **[CandForm](https://github.com/fhermas22/candform)**                   | Job application platform with multi-side validations and automated email confirmations.        | Laravel + TailwindCSS + MySQL               |
+| 🧾 **[HERNOTIX Tech](https://github.com/fhermas22/hernotix-tech-landing)** | Modern, sleek and fast landing page showcase for a web & mobile development studio.            | React + TailwindCSS                         |
+| 📖 **[EduTrack](https://github.com/fhermas22/edutrack)**                   | Modern SPA frontend interface optimized for learners' academic progress tracking.              | Laravel 12 + Blade + JS + Tailwind          |
+| 🍽️ **[DineReserve](https://github.com/fhermas22/dinereserve)**             | Frictionless table booking and reservation management system for modern restaurants.           | Laravel + TailwindCSS + MySQL               |
+| 📚 **[Library-API](https://github.com/fhermas22/library-api)**             | Robust REST API engineered to drive and manage a complete digital library inventory.           | Laravel + MySQL + REST API                  |
 | 🌆 **[Fexels](https://github.com/fhermas22/fexels)**                       | Photo gallery web experience.                                  | HTML + CSS + JavaScript                    |
 
 ---
