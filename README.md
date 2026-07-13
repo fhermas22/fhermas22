@@ -39,7 +39,7 @@
 #### ☁️ DevOps, Cloud & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,mysql,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,mysql,mongodb&perline=6" />
 </p>
 
 #### ⚙️ Tools & Environment
